@@ -25,7 +25,7 @@ This project is designed to scrape house pricing data for Alexandria and save it
 3. **Create a Virtual Environment and Activate It**:
     ```sh
     python -m venv venv
-    source venv/bin/activate
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
 4. **Install the Dependencies**:
