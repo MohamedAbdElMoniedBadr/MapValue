@@ -1,6 +1,7 @@
 # Virtual environment
 venv/
 env/
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -12,3 +13,6 @@ __pycache__/
 
 # Data files
 data/
+
+# Configuration files
+config.json
